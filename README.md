@@ -1,4 +1,4 @@
-# vue-simple-app
+# Vue PWA
 
 ## Project setup
 ```
